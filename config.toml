@@ -1,3 +1,22 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://tatsumon-wip.netlify.com/"
+languageCode = "ja"
+title = "Tatsumon's WIP"
+theme = 'hestia-pure'
+
+[author]
+ author = 'tatsumon'
+ profile = 'Engineering Manager.ご連絡はtwitterへ'
+ image = 'image/theme/profile.jpg'
+
+[Params]
+ localeOgp = "ja"
+ description = "人生いつも仕掛かり中"
+ keywords = "Manager,web,developer"
+ twitter = "tatsumon4"
+ github = "mijinco0612"
+ facebook = "takamichi.tatsumoto"
+ googleanalytics = ""
+ googlecustomsearch = ""
+
+[permalinks]
+posts = "/posts/:year/:month/:filename/"
