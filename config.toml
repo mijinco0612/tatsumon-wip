@@ -19,4 +19,4 @@ theme = 'hestia-pure'
  googlecustomsearch = ""
 
 [permalinks]
-posts = "/posts/:year/:month/:filename/"
+posts = "/posts/:year/:month/:slug/"
