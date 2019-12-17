@@ -17,3 +17,6 @@ theme = 'hestia-pure'
  facebook = "takamichi.tatsumoto"
  googleanalytics = ""
  googlecustomsearch = ""
+
+[permalinks]
+posts = "/posts/:year/:month/:filename/"
