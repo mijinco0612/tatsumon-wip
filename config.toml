@@ -1,11 +1,11 @@
 baseurl = "https://tatsumon-wip.netlify.com/"
 languageCode = "ja"
-title = "Tatsumon’s  WIP"
+title = "Tatsumon's WIP"
 theme = 'hestia-pure'
 
 [author]
  author = 'tatsumon'
- profile = 'Engineering Manager'
+ profile = 'Engineering Manager. 自分を見失いがち'
  image = 'image/theme/profile.jpg'
 
 [Params]
@@ -14,6 +14,6 @@ theme = 'hestia-pure'
  keywords = "Manager,web,developer"
  twitter = "tatsumon4"
  github = "mijinco0612"
- facebook = "takamichi-tatsumoto"
+ facebook = "takamichi.tatsumoto"
  googleanalytics = ""
  googlecustomsearch = ""
