@@ -1,6 +1,7 @@
 ---
 title: testタイトル
 date: 2019-12-17T14:17:53.776Z
+image: /image/og.jpg
 slug: testpost
 ---
 そのころわたくしは、モリーオ市の博物局に勤めて居りました。
