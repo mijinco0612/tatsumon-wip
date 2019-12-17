@@ -2,6 +2,8 @@ baseurl = "https://tatsumon-wip.netlify.com/"
 languageCode = "ja"
 title = "Tatsumon's WIP"
 theme = 'hestia-pure'
+hasCJKLanguage = true
+summaryLength = 100
 
 [author]
  author = 'tatsumon'
@@ -20,3 +22,4 @@ theme = 'hestia-pure'
 
 [permalinks]
 posts = "/posts/:year/:month/:slug/"
+
