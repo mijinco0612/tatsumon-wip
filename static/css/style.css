@@ -6,7 +6,9 @@
           box-sizing: border-box; }
 
 body {
-  font-family: "Sawarabi Gothic", Meiryo, "メイリオ", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN", "YuGothic", "游ゴシック", Helvetica, Arial, sans-serif; }
+  font-family:'M PLUS Rounded 1c', Meiryo, "メイリオ", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN", "YuGothic", "游ゴシック", Helvetica, Arial, sans-serif;
+  color: #666;
+}
 
 a {
   color: #3273dc;
@@ -30,13 +32,13 @@ a {
   padding-top: 1em;
   text-align: center; }
   .header a {
-    color: #ff470f;
+    color: #708090;
     text-decoration: none; }
 
 .site-title {
   display: block;
   font-size: 2em;
-  font-weight: bold;
+  font-weight: normal ;
   margin: .67em 0; }
 
 .search {
@@ -144,7 +146,7 @@ a {
   padding: 0 5%; }
 
 .post {
-  color: #444; }
+  color: #666; }
   .post__title {
     font-size: 1.6em; }
   .post__date {
