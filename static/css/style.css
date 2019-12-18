@@ -10,6 +10,8 @@ body {
   color: #666;
 }
 
+
+
 a {
   color: #3273dc;
   -webkit-transition: .3s all;
@@ -72,7 +74,8 @@ a {
 .author__info {
   padding-left: 5%; }
   .author__info h3 {
-    margin-top: 0; }
+    margin-top: 0;
+  font-weight: lighter}
 
 .author__links {
   display: -webkit-box;

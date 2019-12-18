@@ -7,12 +7,12 @@ summaryLength = 100
 
 [author]
  author = 'tatsumon'
- profile = 'Engineering Manager.ご連絡はtwitterへ'
+ profile = 'どこかのEngineering Manager'
  image = 'image/theme/profile.jpg'
 
 [Params]
  localeOgp = "ja"
- description = "人生いつも仕掛かり中"
+ description = "いつも仕掛かり中"
  keywords = "Manager,web,developer"
  twitter = "tatsumon4"
  github = "mijinco0612"
