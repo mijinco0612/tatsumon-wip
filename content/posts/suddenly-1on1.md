@@ -123,4 +123,4 @@ midonoさんからは以下のような概要のコメントもらった。
 
 そして[@midonoさん](https://twitter.com/midono_ap1)記事が遅くなってしまってすみませんｍ(＿ ＿；)ｍ
 
-* [@nitt-san](https://twitter.com/nitt_san)に継承つけるとさかなクンさんみたいになってしまう。ここではsanが継承だとみなしています。
+* [@nitt-san](https://twitter.com/nitt_san)に敬称つけるとさかなクンさんみたいになってしまう。ここではsanが敬称だとみなしています。
