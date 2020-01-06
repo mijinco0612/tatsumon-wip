@@ -1,7 +1,7 @@
 ---
 title: 仲間を見送ってきた。
 date: 2020-01-01T14:03:10.403Z
-image: /theme/og.png
+image: /image/sad.png
 slug: farewell-my-friends
 draft: false
 ---
