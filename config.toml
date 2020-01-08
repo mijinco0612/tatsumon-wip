@@ -164,7 +164,7 @@ link = "https://www.facebook.com/takamichi.tatsumoto"
 
     [Languages.ja]
     languageName = "Ja"
-    languageCode = "ja"
+    languageCode = "ja-JP"
     contentDir = "content/japanese"
     weight = 1
     home = "Home"
