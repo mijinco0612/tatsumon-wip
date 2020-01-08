@@ -3,4 +3,4 @@
 	url = https://github.com/diwao/hestia-pure.git
 [submodule "themes/airspace-hugo"]
 	path = themes/airspace-hugo
-	url = git@github.com:themefisher/airspace-hugo.git
+	url = https://github.com/themefisher/airspace-hugo.git
